@@ -1,0 +1,147 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.teaser {
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    color: #57524C;
+    text-align: left;
+}
+
+.text {
+    font-family: "Times New Roman", Times, serif;
+    color: #57524C;
+    text-align: justify;
+    font-weight: normal;
+}
+
+.title1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6293A2;
+    font-weight: bold;
+    text-align: left;
+    font-size: 18px;
+}
+
+.text2 {
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+    color: #57524C;
+    font-weight: normal;
+}
+
+.title1 .teaser {
+    text-align: justify;
+}
+
+.copyright {
+    font-family: "Times New Roman", Times, serif;
+    color: #57524C;
+    text-align: right;
+}
+
+.copy {
+    font-family: "Times New Roman", Times, serif;
+    text-align: right;
+    color: #57524C;
+}
+
+.download {
+}
+
+.download {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.download {
+    font-weight: bold;
+}
+
+.download {
+    color: #6293A2;
+}
+
+body {
+    background-color: #DDDDEB;
+    text-align: center;
+    font-size: larger;
+    font-family:"ËÎÌå"
+}
+
+#table_brirfIntroduction {
+    width: 100%;
+    border-collapse: collapse;
+     
+}
+
+ #table_brirfIntroduction td {
+        font-size: 1em;       
+        padding: 3px 7px 2px 7px;
+        font-family:"Times New Roman",STKaiti;
+        font-weight:600;
+    }
+
+ #table_studet {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+ #table_studet td {
+        font-size: 14px;       
+        padding: 3px 7px 2px 7px;
+        font-family:"Times New Roman",FangSong;
+        font-weight:600;
+        line-height:2;
+    }
+
+ h1{
+     font-size:30px;
+     font-family:'Times New Roman';
+     text-shadow: 4px 4px 4px #FF0000;
+     padding:0px;
+ }
+
+  h2{
+     font-size:20px;
+     font-family:"ºÚÌå"
+     padding:0px;
+     align-content:center;
+ }
+
+p.bio {
+    text-indent: 2em;
+    line-height: 2;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: 500;
+}
+
+p.news {
+    text-indent: 2em;
+    line-height: 1;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: 500;
+}
+
+p.paper {
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: 500;
+}
+

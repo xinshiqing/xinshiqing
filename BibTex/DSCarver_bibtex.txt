@@ -1,0 +1,10 @@
+@article{zhao2018dscarver,
+  title={DSCarver: decompose-and-spiral-carve for subtractive manufacturing},
+  author={Zhao, Haisen and Zhang, Hao and Xin, Shiqing and Deng, Yuanmin and Tu, Changhe and Wang, Wenping and Cohen-Or, Daniel and Chen, Baoquan},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={37},
+  number={4},
+  pages={137},
+  year={2018},
+  publisher={ACM}
+}
