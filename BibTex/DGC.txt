@@ -1,0 +1,9 @@
+@article{Wang2017Discrete,
+  title={Discrete geodesic graph (DGG) for computing geodesic distances on polyhedral surfaces},
+  author={Wang, Xiaoning and Zheng, Fang and Wu, Jiajun and Xin, Shi Qing and Ying, He},
+  journal={Computer Aided Geometric Design},
+  volume={52},
+  number={C},
+  pages={262-284},
+  year={2017},
+}

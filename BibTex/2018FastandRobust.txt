@@ -1,0 +1,9 @@
+@article{Chen2018Fast,
+  title={Fast and robust shape diameter function},
+  author={Chen, S. and Liu, T. and Shu, Z. and Xin, S. and He, Y. and Tu, C.},
+  journal={Plos One},
+  volume={13},
+  number={1},
+  pages={e0190666},
+  year={2018},
+}

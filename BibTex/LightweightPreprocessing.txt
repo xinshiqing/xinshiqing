@@ -1,0 +1,6 @@
+@article{Xin2018Lightweight,
+  title={Lightweight preprocessing and fast query of geodesic distance via proximity graph},
+  author={Xin, Shiqing and Wang, Wenping and Ying, He and Zhou, Yuanfeng and Chen, Shuangmin and Tu, Changhe and Shu, Zhenyu},
+  journal={Computer-Aided Design},
+  year={2018},
+}

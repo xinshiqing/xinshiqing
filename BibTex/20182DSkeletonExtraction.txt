@@ -1,0 +1,6 @@
+@article{Gao20182D,
+  title={2D Skeleton Extraction Based on Heat Equation},
+  author={Gao, Fengyi and Wei, Guangshun and Xin, Shiqing and Gao, Shanshan and Zhou, Yuanfeng},
+  journal={Computers & Graphics},
+  year={2018},
+}

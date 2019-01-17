@@ -1,0 +1,14 @@
+@article{SHU2016199,
+title = "3D model classification via Principal Thickness Images",
+journal = "Computer-Aided Design",
+volume = "78",
+pages = "199 - 208",
+year = "2016",
+note = "SPM 2016",
+issn = "0010-4485",
+doi = "https://doi.org/10.1016/j.cad.2016.05.014",
+url = "http://www.sciencedirect.com/science/article/pii/S0010448516300343",
+author = "Zhenyu Shu and Shiqing Xin and Huixia Xu and Ladislav Kavan and Pengfei Wang and Ligang Liu",
+keywords = "Non-rigid 3D model, 3D model classification, Principal Thickness Images, Kernel sparse representation",
+abstract = "With the innovation in 3D modeling software, more and more 3D models are becoming available in recent decades. To facilitate efficient retrieval and search of large 3D model databases, an effective shape classification algorithm is badly in need. In this paper, we propose a new feature descriptor named Principal Thickness Images (PTI) that encodes the boundary surface and the voxelized constituents of a 3D shape into three gray-scale images. With the support of PTI, we extend the kernel sparse representation-based classification from 2D case to non-rigid 3D models. Our classification algorithm inherits the robustness of kernel sparse representation and is able to achieve a high success rate and strong reliability on non-rigid models from the SHRECâ€?1 non-rigid 3D models dataset. Numerous tests demonstrate superior performance of the proposed method over previous 3D shape classification approaches."
+}

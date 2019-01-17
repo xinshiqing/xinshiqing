@@ -1,0 +1,5 @@
+@article{Liu2018Caging,
+  title={Caging Loops in Shape Embedding Space: Theory and Computation},
+  author={Liu, Jian and Xin, Shiqing and Gao, Zengfu and Xu, Kai and Tu, Changhe and Chen, Baoquan},
+  year={2018},
+}

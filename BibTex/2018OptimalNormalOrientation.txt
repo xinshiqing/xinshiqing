@@ -1,0 +1,11 @@
+@article{XU201836,
+title = "Towards globally optimal normal orientations for thin surfaces",
+journal = "Computers & Graphics",
+volume = "75",
+pages = "36 - 43",
+year = "2018",
+issn = "0097-8493",
+doi = "https://doi.org/10.1016/j.cag.2018.06.002",
+url = "http://www.sciencedirect.com/science/article/pii/S009784931830092X",
+author = "Minfeng Xu and Shiqing Xin and Changhe Tu",
+keywords = "Consistent normal orientation, Thin surface, Geometric optimization, Surface reconstruction"}

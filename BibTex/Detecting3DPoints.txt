@@ -1,0 +1,9 @@
+@article{Shu2018Detecting,
+  title={Detecting 3D Points of Interest Using Multiple Features and Stacked Auto-encoder},
+  author={Shu, Zhenyu and Xin, Shiqing and Xu, Xin and Liu, Ligang and Kavan, Ladislav},
+  journal={IEEE Transactions on Visualization & Computer Graphics},
+  volume={PP},
+  number={99},
+  pages={1-1},
+  year={2018},
+}

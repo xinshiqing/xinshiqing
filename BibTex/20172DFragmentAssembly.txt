@@ -1,0 +1,9 @@
+@article{Meng2016Fast,
+  title={Fast algorithm for 2D fragment assembly based on partial EMD},
+  author={Meng, Zhang and Chen, Shuangmin and Shu, Zhenyu and Xin, Shi Qing and Zhao, Jieyu and Jin, Guang and Rong, Zhang and Beyerer, J¨¹rgen},
+  journal={Visual Computer},
+  volume={33},
+  number={12},
+  pages={1-12},
+  year={2016},
+}

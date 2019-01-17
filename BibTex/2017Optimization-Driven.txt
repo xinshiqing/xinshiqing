@@ -1,0 +1,14 @@
+@article{LIU2017105,
+title = "An optimization-driven approach for computing geodesic paths on triangle meshes",
+journal = "Computer-Aided Design",
+volume = "90",
+pages = "105 - 112",
+year = "2017",
+note = "SI:SPM2017",
+issn = "0010-4485",
+doi = "https://doi.org/10.1016/j.cad.2017.05.022",
+url = "http://www.sciencedirect.com/science/article/pii/S0010448517301033",
+author = "Bangquan Liu and Shuangmin Chen and Shi-Qing Xin and Ying He and Zhen Liu and Jieyu Zhao",
+keywords = "Geodesic paths, Geodesic helical curves, Optimization, Anisotropic metric, Non-uniform density",
+abstract = "There are many application scenarios where we need to refine an initial path lying on a surface to be as short as possible. A typical way to solve this problem is to iteratively shorten one segment of the path at a time. As local approaches, they are conceptually simple and easy to implement, but they converge slowly and have poor performance on large scale models. In this paper, we develop an optimization driven approach to improve the performance of computing geodesic paths. We formulate the objective function as the total length and adopt the L-BFGS solver to minimize it. Computational results show that our method converges with super-linear rate, which significantly outperforms the existing methods. Moreover, our method is flexible to handle anisotropic metric, non-uniform density function, as well as additional user-specified constraints, such as coplanar geodesics and equally-spaced geodesic helical curves, which are challenging to the existing local methods."
+}

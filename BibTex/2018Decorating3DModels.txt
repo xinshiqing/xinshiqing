@@ -1,0 +1,14 @@
+@article{FU20181,
+title = "Decorating 3D models with Poisson vector graphics",
+journal = "Computer-Aided Design",
+volume = "102",
+pages = "1 - 11",
+year = "2018",
+note = "Special Issue on SPM 2018",
+issn = "0010-4485",
+doi = "https://doi.org/10.1016/j.cad.2018.04.019",
+url = "http://www.sciencedirect.com/science/article/pii/S0010448518302288",
+author = "Qian Fu and Fei Hou and Qian Sun and Shi-Qing Xin and Yong-Jin Liu and Wencheng Wang and Hong Qin and Ying He",
+keywords = "Poisson vector graphics, Poisson solver, Harmonic B-splines, Diffusion curves, Poisson regions, Displacement mapping",
+abstract = "This paper proposes a novel method for decorating 3D surfaces using a new type of vector graphics, called Poisson Vector Graphics (PVG). Unlike other existing techniques that frequently require local/global parameterization, our approach advocates a parameterization-free paradigm, affording decoration of geometric models with any topological type while minimizing the overall computational expenses. Since PVG supports a set of simple discrete curves, it is straightforward for users to edit colors and synthesize geometry details. Meanwhile, the details could be organized by Poisson Region (PR), leading to much smoother decoration than those of Diffusion Curve (DC). Consequently, it is an ideal tool to create smooth relief. It may be noted that, DC is adequate to create sharp or discontinuous results. But PR is superior to DC, supporting level-of-details editing on meshes thanks to its smoothness. To render PVG on meshes efficiently, we develop a Poisson solver based on harmonic B-splines, which could be constructed using geodesic Voronoi diagram. Our Poisson solver is a local solver for rendering with more flexibility and versatility. We demonstrate the efficacy of our approach on synthetic and real-world 3D models."
+}

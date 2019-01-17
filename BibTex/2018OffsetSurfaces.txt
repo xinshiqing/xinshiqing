@@ -1,0 +1,6 @@
+@article{Meng2017Efficiently,
+  title={Efficiently computing feature-aligned and high-quality polygonal offset surfaces},
+  author={Meng, Wenlong and Chen, Shuangmin and Shu, Zhenyu and Xin, Shi Qing and Fu, Hongbo and Tu, Changhe},
+  journal={Computers & Graphics},
+  year={2017},
+}

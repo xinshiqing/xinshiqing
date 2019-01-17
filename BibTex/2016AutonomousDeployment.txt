@@ -1,0 +1,9 @@
+@article{Feng2016Autonomous,
+  title={Autonomous deployment of wireless sensor networks for optimal coverage with directional sensing model ¡î},
+  author={Feng, Li and Luo, Jun and Xin, Shiqing and Ying, He},
+  journal={Computer Networks},
+  volume={108},
+  number={10},
+  pages={120-132},
+  year={2016},
+}
