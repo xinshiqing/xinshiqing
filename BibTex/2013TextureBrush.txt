@@ -1,0 +1,6 @@
+@inproceedings{Qian2013Texture,
+  title={Texture brush: An interactive surface texturing interface},
+  author={Qian, Sun and Long, Zhang and Zhang, Minqi and Xiang, Ying and Xin, Shi Qing and Xia, Jiazhi and Ying, He},
+  booktitle={I3d},
+  year={2013},
+}

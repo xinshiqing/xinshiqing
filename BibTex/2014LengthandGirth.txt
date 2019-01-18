@@ -1,0 +1,9 @@
+@article{Xin2014Measuring,
+  title={Measuring length and girth of a tubular shape by quasi-helixes},
+  author={Xin, Shi Qing and Chen, Shuangmin and Zhao, Jieyu and Pan, Zhigeng},
+  journal={Computers & Graphics},
+  volume={38},
+  number={1},
+  pages={392-398},
+  year={2014},
+}

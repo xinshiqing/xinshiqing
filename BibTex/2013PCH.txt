@@ -1,0 +1,9 @@
+@article{Xiang2014Parallel,
+  title={Parallel Chen-Han (PCH) Algorithm for Discrete Geodesics},
+  author={Xiang, Ying and Xin, Shi Qing and Ying, He and Xiang, Ying and Xin, Shi Qing and Ying, He},
+  journal={Acm Transactions on Graphics},
+  volume={33},
+  number={1},
+  pages={1-11},
+  year={2014},
+}

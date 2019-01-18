@@ -1,0 +1,18 @@
+@InProceedings{10.1007/978-3-642-41083-3_13,
+author="Peng, Hao
+and Shi, Rui
+and Xin, Shiqing
+and Gu, Xianfeng",
+editor="Yoshida, Hiroyuki
+and Warfield, Simon
+and Vannier, Michael W.",
+title="Global Colon Geometric Structure Analysis Based on Geodesics and Conformal Flattening",
+booktitle="Abdominal Imaging. Computation and Clinical Applications",
+year="2013",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="107--116",
+abstract="Global geometric structure analysis plays an important role in computer vision and medical imaging. Human colon has complex geometric structures; colonic modeling has been the most challenging issue for computer aided detection and diagnosis (CADe and CADx). The increasing demand for colon modeling relies on the construction of an accurate endoscopy view for physician to locate polyps, precursors of colorectal cancer. This work focus on automatically locating the Teniae Coli, Haustral Folds and extracting centerline, which gives the global geometric structure of a colon wall surface anatomy. A series of algorithms based on geodesics and conformal flattening are proposed: auxiliary Riemannian metric algorithm for Teniae Coli tracking; geodesic clustering method for Haustral folding location; harmonic mass center method for centerline construction. Our method is fully automatic, accurate and robust. We tested our method on real colon surfaces reconstructed from CT images. The experimental results demonstrate the efficiency and efficacy of our method.",
+isbn="978-3-642-41083-3"
+}
+

@@ -1,0 +1,9 @@
+@article{Xin2013Parallel,
+  title={Parallel computing 2D Voronoi diagrams using untransformed sweepcircles},
+  author={Xin, Shi Qing and Wang, Xiaoning and Xia, Jiazhi and Mueller-Wittig, Wolfgang and Wang, Guo Jin and He, Ying},
+  journal={Cad Computer Aided Design},
+  volume={45},
+  number={2},
+  pages={483-493},
+  year={2013},
+}

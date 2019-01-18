@@ -1,0 +1,9 @@
+@article{Wang2015Intrinsic,
+  title={Intrinsic computation of centroidal Voronoi tessellation (CVT) on meshes ¡î},
+  author={Wang, Xiaoning and Xiang, Ying and Liu, Yong Jin and Xin, Shi Qing and Wang, Wenping and Gu, Xianfeng and Mueller-Wittig, Wolfgang and Ying, He},
+  journal={Computer-Aided Design},
+  volume={58},
+  number={C},
+  pages={51-61},
+  year={2015},
+}

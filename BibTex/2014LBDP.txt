@@ -1,0 +1,9 @@
+@article{Feng2014LBDP,
+  title={LBDP: localized boundary detection and parametrization for 3-D sensor networks},
+  author={Feng, Li and Chi, Zhang and Luo, Jun and Xin, Shi Qing and Ying, He},
+  journal={IEEE/ACM Transactions on Networking},
+  volume={22},
+  number={2},
+  pages={567-579},
+  year={2014},
+}

@@ -1,0 +1,9 @@
+@article{Obafemi2015Facial,
+  title={Facial Structure Analysis Separates Autism Spectrum Disorders into Meaningful Clinical Subgroups},
+  author={Obafemi-Ajayi, Tayo and Miles, Judith H. and Takahashi, T. Nicole and Qi, Wenchuan and Aldridge, Kristina and Zhang, Minqi and Xin, Shi Qing and He, Ying and Duan, Ye},
+  journal={Journal of Autism & Developmental Disorders},
+  volume={45},
+  number={5},
+  pages={1302-1317},
+  year={2015},
+}

@@ -1,0 +1,9 @@
+@article{Xiang2013An,
+  title={An intrinsic algorithm for parallel Poisson disk sampling on arbitrary surfaces},
+  author={Xiang, Ying and Shi-Qing, Xin and Qian, Sun and Ying, He},
+  journal={IEEE Transactions on Visualization & Computer Graphics},
+  volume={19},
+  number={9},
+  pages={1425-1437},
+  year={2013},
+}
