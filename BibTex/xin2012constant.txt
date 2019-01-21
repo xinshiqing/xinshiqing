@@ -1,0 +1,8 @@
+@inproceedings{xin2012constant,
+  title={Constant-time all-pairs geodesic distance query on triangle meshes},
+  author={Xin, Shi-Qing and Ying, Xiang and He, Ying},
+  booktitle={Proceedings of the ACM SIGGRAPH symposium on interactive 3D graphics and games},
+  pages={31--38},
+  year={2012},
+  organization={ACM}
+}
