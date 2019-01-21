@@ -1,0 +1,10 @@
+@article{xin2009improving,
+  title={Improving Chen and Han's algorithm on the discrete geodesic problem},
+  author={Xin, Shi-Qing and Wang, Guo-Jin},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={28},
+  number={4},
+  pages={104},
+  year={2009},
+  publisher={ACM}
+}

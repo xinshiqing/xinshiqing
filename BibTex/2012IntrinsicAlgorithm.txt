@@ -1,0 +1,10 @@
+@article{quynh2012intrinsic,
+  title={An intrinsic algorithm for computing geodesic distance fields on triangle meshes with holes},
+  author={Quynh, Dao TP and He, Ying and Xin, Shi-Qing and Chen, Zhonggui},
+  journal={Graphical Models},
+  volume={74},
+  number={4},
+  pages={209--220},
+  year={2012},
+  publisher={Elsevier}
+}

@@ -1,0 +1,8 @@
+inproceedings{xin2012global,
+  title={A global algorithm to compute defect-tolerant geodesic distance},
+  author={Xin, Shi-Qing and Quynh, Dao TP and Ying, Xiang and He, Ying},
+  booktitle={SIGGRAPH Asia 2012 Technical Briefs},
+  pages={23},
+  year={2012},
+  organization={ACM}
+}

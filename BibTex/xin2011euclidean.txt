@@ -1,0 +1,8 @@
+@inproceedings{xin2011euclidean,
+  title={Euclidean geodesic loops on high-genus surfaces applied to the morphometry of vestibular systems},
+  author={Xin, Shi-Qing and He, Ying and Fu, Chi-Wing and Wang, Defeng and Lin, Shi and Chu, Winnie CW and Cheng, Jack CY and Gu, Xianfeng and Lui, Lok Ming},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={384--392},
+  year={2011},
+  organization={Springer}
+}

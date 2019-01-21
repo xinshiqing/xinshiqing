@@ -1,0 +1,8 @@
+@inproceedings{li2011unfold,
+  title={UNFOLD: Uniform fast on-line boundary detection for dynamic 3D wireless sensor networks},
+  author={Li, Feng and Luo, Jun and Zhang, Chi and Xin, Shiqing and He, Ying},
+  booktitle={Proceedings of the Twelfth ACM International Symposium on Mobile Ad Hoc Networking and Computing},
+  pages={14},
+  year={2011},
+  organization={ACM}
+}

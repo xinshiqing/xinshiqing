@@ -1,0 +1,10 @@
+@article{xin2010applying,
+  title={Applying the improved Chen and Han¡¯s algorithm to different versions of shortest path problems on a polyhedral surface},
+  author={Xin, Shi-Qing and Wang, Guo-Jin},
+  journal={Computer-Aided Design},
+  volume={42},
+  number={10},
+  pages={942--951},
+  year={2010},
+  publisher={Elsevier}
+}

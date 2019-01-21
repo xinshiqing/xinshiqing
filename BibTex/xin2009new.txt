@@ -1,0 +1,10 @@
+@article{xin2009new,
+  title={New method in information processing for maintaining an efficient dynamic ordered set},
+  author={Xin, ShiQing and Wang, GuoJin},
+  journal={Science in China Series F: Information Sciences},
+  volume={52},
+  number={8},
+  pages={1292--1301},
+  year={2009},
+  publisher={Springer}
+}

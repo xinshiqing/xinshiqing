@@ -1,0 +1,8 @@
+@inproceedings{li2012laacad,
+  title={LAACAD: Load balancing k-area coverage through autonomous deployment in wireless sensor networks},
+  author={Li, Feng and Luo, Jun and Xin, Shi-Qing and Wang, Wen-Ping and He, Ying},
+  booktitle={Distributed Computing Systems (ICDCS), 2012 IEEE 32nd International Conference on},
+  pages={566--575},
+  year={2012},
+  organization={IEEE}
+}
