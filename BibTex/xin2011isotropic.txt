@@ -1,0 +1,8 @@
+@inproceedings{xin2011isotropic,
+  title={Isotropic mesh simplification by evolving the geodesic delaunay triangulation},
+  author={Xin, Shi-Qing and Chen, Shuang-Min and He, Ying and Wang, Guo-Jin and Gu, Xianfeng and Qin, Hong},
+  booktitle={Voronoi Diagrams in Science and Engineering (ISVD), 2011 Eighth International Symposium on},
+  pages={39--47},
+  year={2011},
+  organization={IEEE}
+}

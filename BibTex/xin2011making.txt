@@ -1,0 +1,10 @@
+@inproceedings{xin2011making,
+  title={Making burr puzzles from 3D models},
+  author={Xin, Shiqing and Lai, Chi-Fu and Fu, Chi-Wing and Wong, Tien-Tsin and He, Ying and Cohen-Or, Daniel},
+  booktitle={ACM Transactions on Graphics (TOG)},
+  volume={30},
+  number={4},
+  pages={97},
+  year={2011},
+  organization={ACM}
+}

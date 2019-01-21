@@ -1,0 +1,10 @@
+@article{xin2012efficiently,
+  title={Efficiently computing exact geodesic loops within finite steps},
+  author={Xin, Shi-Qing and He, Ying and Fu, Chi-Wing},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  volume={18},
+  number={6},
+  pages={879--889},
+  year={2012},
+  publisher={IEEE}
+}
