@@ -107,6 +107,18 @@ body {
         font-weight:600;
         line-height:2;
     }
+  #table_graphic{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+ #table_graphic td {
+        font-size: 20px;       
+        padding: 3px 7px 2px 7px;
+        font-family:"Times New Roman",FangSong;
+        font-weight:600;
+        line-height:3;
+    }
 
  h1{
      font-size:30px;
@@ -120,6 +132,12 @@ body {
      font-family:"ºÚÌå"
      padding:0px;
      align-content:center;
+ }
+   h3{
+     font-size:20px;
+     font-family:'Times New Roman';
+     text-shadow: 2px 2px 2px#b6ff00  ;
+     padding:0px;
  }
 
 p.bio {
